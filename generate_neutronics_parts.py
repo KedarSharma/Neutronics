@@ -919,6 +919,12 @@ def create_conclusion(path):
             "reviewed by a human at each stage.",
             sheet["PartBody"],
         )
+        yield Paragraph(
+            "All code is available at "
+            "<link href=\"https://github.com/KedarSharma/Neutronics\" "
+            "color=\"blue\">https://github.com/KedarSharma/Neutronics</link>.",
+            sheet["PartBody"],
+        )
 
     create_part_pdf(
         path,

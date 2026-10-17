@@ -37,12 +37,12 @@ endobj
 >>
 endobj
 5 0 obj
-[ 89 0 R 90 0 R ]
+[ 90 0 R 91 0 R ]
 endobj
 6 0 obj
 <<
 /F1 7 0 R
-/F1-0 88 0 R
+/F1-0 89 0 R
 /F2 8 0 R
 /F3 9 0 R
 /F4 10 0 R
@@ -102,12 +102,12 @@ endobj
 >>
 endobj
 12 0 obj
-[ 92 0 R 93 0 R ]
+[ 93 0 R 94 0 R ]
 endobj
 13 0 obj
 <<
 /F1 14 0 R
-/F1-0 91 0 R
+/F1-0 92 0 R
 /F2 15 0 R
 /F3 16 0 R
 >>
@@ -190,13 +190,13 @@ endobj
 >>
 endobj
 20 0 obj
-[ 95 0 R 96 0 R ]
+[ 96 0 R 97 0 R ]
 endobj
 21 0 obj
 <<
 /F1 22 0 R
-/F1-0 94 0 R
-/F1-1 97 0 R
+/F1-0 95 0 R
+/F1-1 98 0 R
 /F2 23 0 R
 /F3 24 0 R
 /F4 25 0 R
@@ -300,7 +300,7 @@ endobj
 >>
 endobj
 30 0 obj
-[ 98 0 R 99 0 R ]
+[ 99 0 R 100 0 R ]
 endobj
 31 0 obj
 <<
@@ -401,13 +401,13 @@ endobj
 >>
 endobj
 37 0 obj
-[ 101 0 R 102 0 R ]
+[ 102 0 R 103 0 R ]
 endobj
 38 0 obj
 <<
 /F1 39 0 R
-/F1-0 100 0 R
-/F1-1 103 0 R
+/F1-0 101 0 R
+/F1-1 104 0 R
 /F2 40 0 R
 /F3 41 0 R
 /F4 42 0 R
@@ -510,7 +510,7 @@ endobj
 >>
 endobj
 47 0 obj
-[ 104 0 R 105 0 R ]
+[ 105 0 R 106 0 R ]
 endobj
 48 0 obj
 <<
@@ -595,14 +595,14 @@ endobj
 >>
 endobj
 53 0 obj
-[ 107 0 R 108 0 R ]
+[ 108 0 R 109 0 R ]
 endobj
 54 0 obj
 <<
 /F1 55 0 R
-/F1-0 106 0 R
-/F1-1 109 0 R
-/F1-2 112 0 R
+/F1-0 107 0 R
+/F1-1 110 0 R
+/F1-2 113 0 R
 /F2 56 0 R
 /F3 57 0 R
 /F4 58 0 R
@@ -694,7 +694,7 @@ endobj
 >>
 endobj
 62 0 obj
-[ 110 0 R 111 0 R ]
+[ 111 0 R 112 0 R ]
 endobj
 63 0 obj
 <<
@@ -747,7 +747,7 @@ endobj
 >>
 endobj
 66 0 obj
-[ 113 0 R 114 0 R ]
+[ 114 0 R 115 0 R ]
 endobj
 67 0 obj
 <<
@@ -784,13 +784,13 @@ endobj
 >>
 endobj
 69 0 obj
-[ 116 0 R 117 0 R ]
+[ 117 0 R 118 0 R ]
 endobj
 70 0 obj
 <<
 /F1 71 0 R
-/F1-0 115 0 R
-/F1-1 118 0 R
+/F1-0 116 0 R
+/F1-1 119 0 R
 /F2 72 0 R
 /F3 73 0 R
 /F4 74 0 R
@@ -882,7 +882,7 @@ endobj
 >>
 endobj
 78 0 obj
-[ 119 0 R 120 0 R ]
+[ 120 0 R 121 0 R ]
 endobj
 79 0 obj
 <<
@@ -918,10 +918,11 @@ endstream
 endobj
 81 0 obj
 <<
-/Contents 82 0 R
+/Annots [ 82 0 R ]
+/Contents 83 0 R
 /MediaBox [ 0 0 612 792 ]
 /Resources <<
-/Font 83 0 R
+/Font 84 0 R
 /ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
 /Rotate 0
@@ -932,18 +933,31 @@ endobj
 >>
 endobj
 82 0 obj
-[ 122 0 R 123 0 R ]
-endobj
-83 0 obj
 <<
-/F1 84 0 R
-/F1-0 121 0 R
-/F2 85 0 R
-/F3 86 0 R
-/F4 87 0 R
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057KedarSharma\057Neutronics)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 143.6825 487.44 312.298 498.84 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
+83 0 obj
+[ 123 0 R 124 0 R ]
+endobj
 84 0 obj
+<<
+/F1 85 0 R
+/F1-0 122 0 R
+/F2 86 0 R
+/F3 87 0 R
+/F4 88 0 R
+>>
+endobj
+85 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -952,7 +966,7 @@ endobj
 /Type /Font
 >>
 endobj
-85 0 obj
+86 0 obj
 <<
 /BaseFont /Times-Bold
 /Encoding /WinAnsiEncoding
@@ -961,7 +975,7 @@ endobj
 /Type /Font
 >>
 endobj
-86 0 obj
+87 0 obj
 <<
 /BaseFont /Times-Roman
 /Encoding /WinAnsiEncoding
@@ -970,7 +984,7 @@ endobj
 /Type /Font
 >>
 endobj
-87 0 obj
+88 0 obj
 <<
 /BaseFont /Symbol
 /Name /F4
@@ -978,7 +992,7 @@ endobj
 /Type /Font
 >>
 endobj
-88 0 obj
+89 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -987,7 +1001,7 @@ endobj
 /Type /Font
 >>
 endobj
-89 0 obj
+90 0 obj
 <<
 /Length 4783
 >>
@@ -1084,7 +1098,7 @@ Q
 
 endstream
 endobj
-90 0 obj
+91 0 obj
 <<
 /Length 162
 >>
@@ -1112,7 +1126,7 @@ Q
 
 endstream
 endobj
-91 0 obj
+92 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -1121,7 +1135,7 @@ endobj
 /Type /Font
 >>
 endobj
-92 0 obj
+93 0 obj
 <<
 /Length 1330
 >>
@@ -1183,7 +1197,7 @@ Q
 
 endstream
 endobj
-93 0 obj
+94 0 obj
 <<
 /Length 162
 >>
@@ -1211,7 +1225,7 @@ Q
 
 endstream
 endobj
-94 0 obj
+95 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -1220,7 +1234,7 @@ endobj
 /Type /Font
 >>
 endobj
-95 0 obj
+96 0 obj
 <<
 /Length 3377
 >>
@@ -1404,7 +1418,7 @@ Q
 
 endstream
 endobj
-96 0 obj
+97 0 obj
 <<
 /Length 162
 >>
@@ -1432,7 +1446,7 @@ Q
 
 endstream
 endobj
-97 0 obj
+98 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -1441,7 +1455,7 @@ endobj
 /Type /Font
 >>
 endobj
-98 0 obj
+99 0 obj
 <<
 /Length 1329
 >>
@@ -1510,7 +1524,7 @@ Q
 
 endstream
 endobj
-99 0 obj
+100 0 obj
 <<
 /Length 162
 >>
@@ -1538,7 +1552,7 @@ Q
 
 endstream
 endobj
-100 0 obj
+101 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -1547,7 +1561,7 @@ endobj
 /Type /Font
 >>
 endobj
-101 0 obj
+102 0 obj
 <<
 /Length 5860
 >>
@@ -1899,7 +1913,7 @@ Q
 
 endstream
 endobj
-102 0 obj
+103 0 obj
 <<
 /Length 162
 >>
@@ -1927,7 +1941,7 @@ Q
 
 endstream
 endobj
-103 0 obj
+104 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -1936,7 +1950,7 @@ endobj
 /Type /Font
 >>
 endobj
-104 0 obj
+105 0 obj
 <<
 /Length 1009
 >>
@@ -1991,7 +2005,7 @@ Q
 
 endstream
 endobj
-105 0 obj
+106 0 obj
 <<
 /Length 162
 >>
@@ -2019,7 +2033,7 @@ Q
 
 endstream
 endobj
-106 0 obj
+107 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -2028,7 +2042,7 @@ endobj
 /Type /Font
 >>
 endobj
-107 0 obj
+108 0 obj
 <<
 /Length 3937
 >>
@@ -2122,7 +2136,7 @@ Q
 
 endstream
 endobj
-108 0 obj
+109 0 obj
 <<
 /Length 162
 >>
@@ -2150,7 +2164,7 @@ Q
 
 endstream
 endobj
-109 0 obj
+110 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -2159,7 +2173,7 @@ endobj
 /Type /Font
 >>
 endobj
-110 0 obj
+111 0 obj
 <<
 /Length 1473
 >>
@@ -2206,7 +2220,7 @@ Q
 
 endstream
 endobj
-111 0 obj
+112 0 obj
 <<
 /Length 162
 >>
@@ -2234,7 +2248,7 @@ Q
 
 endstream
 endobj
-112 0 obj
+113 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -2243,7 +2257,7 @@ endobj
 /Type /Font
 >>
 endobj
-113 0 obj
+114 0 obj
 <<
 /Length 1476
 >>
@@ -2291,7 +2305,7 @@ Q
 
 endstream
 endobj
-114 0 obj
+115 0 obj
 <<
 /Length 162
 >>
@@ -2319,7 +2333,7 @@ Q
 
 endstream
 endobj
-115 0 obj
+116 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -2328,7 +2342,7 @@ endobj
 /Type /Font
 >>
 endobj
-116 0 obj
+117 0 obj
 <<
 /Length 3104
 >>
@@ -2416,7 +2430,7 @@ Q
 
 endstream
 endobj
-117 0 obj
+118 0 obj
 <<
 /Length 163
 >>
@@ -2444,7 +2458,7 @@ Q
 
 endstream
 endobj
-118 0 obj
+119 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -2453,7 +2467,7 @@ endobj
 /Type /Font
 >>
 endobj
-119 0 obj
+120 0 obj
 <<
 /Length 1430
 >>
@@ -2500,7 +2514,7 @@ Q
 
 endstream
 endobj
-120 0 obj
+121 0 obj
 <<
 /Length 163
 >>
@@ -2528,7 +2542,7 @@ Q
 
 endstream
 endobj
-121 0 obj
+122 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -2537,9 +2551,9 @@ endobj
 /Type /Font
 >>
 endobj
-122 0 obj
+123 0 obj
 <<
-/Length 2460
+/Length 2649
 >>
 stream
 q
@@ -2598,13 +2612,19 @@ q
 BT 1 0 0 1 0 2.7 Tm /F3 9.5 Tf 12.2 TL (The code and report were generated with AI assistance and reviewed by a human at each stage.) Tj T* ET
 Q
 Q
+q
+1 0 0 1 54.24 486.64 cm
+q
+BT 1 0 0 1 0 2.7 Tm 12.2 TL /F3 9.5 Tf 0 0 0 rg (All code is available at ) Tj 0 0 1 rg (https://github.com/KedarSharma/Neutronics) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
  
 
 Q
 
 endstream
 endobj
-123 0 obj
+124 0 obj
 <<
 /Length 163
 >>
@@ -2633,7 +2653,7 @@ Q
 endstream
 endobj
 xref
-0 124
+0 125
 0000000000 65535 f 
 0000000015 00000 n 
 0000000232 00000 n 
@@ -2665,105 +2685,106 @@ xref
 0000486900 00000 n 
 0000487482 00000 n 
 0000487836 00000 n 
-0000487870 00000 n 
-0000705200 00000 n 
-0000705861 00000 n 
-0000774897 00000 n 
-0000775472 00000 n 
-0000851841 00000 n 
-0000852097 00000 n 
-0000852133 00000 n 
-0000852238 00000 n 
-0000852346 00000 n 
-0000852455 00000 n 
-0000852565 00000 n 
-0000852643 00000 n 
-0000852756 00000 n 
-0001064597 00000 n 
-0001065258 00000 n 
-0001065563 00000 n 
-0001065599 00000 n 
-0001141064 00000 n 
-0001141646 00000 n 
-0001210482 00000 n 
-0001211057 00000 n 
-0001211313 00000 n 
-0001211349 00000 n 
-0001211457 00000 n 
-0001211565 00000 n 
-0001211674 00000 n 
-0001211784 00000 n 
-0001211862 00000 n 
-0001451913 00000 n 
-0001452817 00000 n 
-0001453073 00000 n 
-0001453109 00000 n 
-0001542196 00000 n 
-0001542653 00000 n 
-0001542909 00000 n 
-0001542945 00000 n 
-0001631964 00000 n 
-0001632220 00000 n 
-0001632256 00000 n 
-0001632350 00000 n 
-0001632458 00000 n 
-0001632567 00000 n 
-0001632677 00000 n 
-0001632755 00000 n 
-0001794376 00000 n 
-0001795280 00000 n 
-0001795536 00000 n 
-0001795572 00000 n 
-0001885610 00000 n 
-0001886067 00000 n 
-0001886259 00000 n 
-0001886295 00000 n 
-0001886375 00000 n 
-0001886483 00000 n 
-0001886592 00000 n 
-0001886702 00000 n 
-0001886780 00000 n 
-0001886888 00000 n 
-0001891724 00000 n 
-0001891938 00000 n 
-0001892046 00000 n 
-0001893429 00000 n 
-0001893643 00000 n 
-0001893751 00000 n 
-0001897181 00000 n 
-0001897395 00000 n 
-0001897503 00000 n 
-0001898885 00000 n 
-0001899099 00000 n 
-0001899208 00000 n 
-0001905122 00000 n 
-0001905337 00000 n 
-0001905446 00000 n 
-0001906509 00000 n 
-0001906724 00000 n 
-0001906833 00000 n 
-0001910824 00000 n 
-0001911039 00000 n 
-0001911148 00000 n 
-0001912675 00000 n 
-0001912890 00000 n 
-0001912999 00000 n 
-0001914529 00000 n 
-0001914744 00000 n 
-0001914853 00000 n 
-0001918011 00000 n 
-0001918227 00000 n 
-0001918336 00000 n 
-0001919820 00000 n 
-0001920036 00000 n 
-0001920145 00000 n 
-0001922659 00000 n 
+0000487871 00000 n 
+0000705201 00000 n 
+0000705862 00000 n 
+0000774898 00000 n 
+0000775473 00000 n 
+0000851842 00000 n 
+0000852098 00000 n 
+0000852134 00000 n 
+0000852239 00000 n 
+0000852347 00000 n 
+0000852456 00000 n 
+0000852566 00000 n 
+0000852644 00000 n 
+0000852757 00000 n 
+0001064598 00000 n 
+0001065259 00000 n 
+0001065564 00000 n 
+0001065600 00000 n 
+0001141065 00000 n 
+0001141647 00000 n 
+0001210483 00000 n 
+0001211058 00000 n 
+0001211314 00000 n 
+0001211350 00000 n 
+0001211458 00000 n 
+0001211566 00000 n 
+0001211675 00000 n 
+0001211785 00000 n 
+0001211863 00000 n 
+0001451914 00000 n 
+0001452818 00000 n 
+0001453074 00000 n 
+0001453110 00000 n 
+0001542197 00000 n 
+0001542654 00000 n 
+0001542910 00000 n 
+0001542946 00000 n 
+0001631965 00000 n 
+0001632221 00000 n 
+0001632257 00000 n 
+0001632351 00000 n 
+0001632459 00000 n 
+0001632568 00000 n 
+0001632678 00000 n 
+0001632756 00000 n 
+0001794377 00000 n 
+0001795281 00000 n 
+0001795537 00000 n 
+0001795573 00000 n 
+0001885611 00000 n 
+0001886068 00000 n 
+0001886279 00000 n 
+0001886486 00000 n 
+0001886522 00000 n 
+0001886602 00000 n 
+0001886710 00000 n 
+0001886819 00000 n 
+0001886929 00000 n 
+0001887007 00000 n 
+0001887115 00000 n 
+0001891951 00000 n 
+0001892165 00000 n 
+0001892273 00000 n 
+0001893656 00000 n 
+0001893870 00000 n 
+0001893978 00000 n 
+0001897408 00000 n 
+0001897622 00000 n 
+0001897730 00000 n 
+0001899112 00000 n 
+0001899327 00000 n 
+0001899436 00000 n 
+0001905350 00000 n 
+0001905565 00000 n 
+0001905674 00000 n 
+0001906737 00000 n 
+0001906952 00000 n 
+0001907061 00000 n 
+0001911052 00000 n 
+0001911267 00000 n 
+0001911376 00000 n 
+0001912903 00000 n 
+0001913118 00000 n 
+0001913227 00000 n 
+0001914757 00000 n 
+0001914972 00000 n 
+0001915081 00000 n 
+0001918239 00000 n 
+0001918455 00000 n 
+0001918564 00000 n 
+0001920048 00000 n 
+0001920264 00000 n 
+0001920373 00000 n 
+0001923076 00000 n 
 trailer
 <<
-/Size 124
+/Size 125
 /Root 3 0 R
 /Info 1 0 R
 >>
 startxref
-1922875
+1923292
 %%EOF
